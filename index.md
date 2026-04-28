@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
-#Welcome to my home Page
+title: Welcome to my home Page!
+
 
 ---
