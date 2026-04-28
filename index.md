@@ -1,5 +1,5 @@
 ---
-title: Welcome to my home Page!
+title: Welcome to NEW HOME PAGE!
 
 
 ---
