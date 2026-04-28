@@ -1,5 +1,5 @@
 ---
-title: "First Post"
+title: "XRP Today"
 date: 2026-04-28
 ---
 XRP (XRP) is a cryptocurrency . XRP has a current supply of
