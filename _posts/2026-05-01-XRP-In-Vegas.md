@@ -1,5 +1,5 @@
 ---
-title: "XRP-In-Vegas"
+title: ""XRP-In-Vegas""
 date: 2026-05-1
 ---
 
