@@ -1,3 +1,4 @@
+<img width="597" height="686" alt="XRP vegas" src="https://github.com/user-attachments/assets/05163293-82f5-4827-8191-6eefc055c196" />
 ---
 title: "XRP-In-Vegas"
 date: 2026-05-1
